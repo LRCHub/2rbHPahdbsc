@@ -1,0 +1,192 @@
+{
+  "version": 1,
+  "base_track": "茎",
+  "base_artist": "Sheena Ringo、Neko Saito",
+  "createdAt": "2025-12-01T14:20:30.763168Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "茎 - 日本語バージョン",
+      "artist": "Sheena Ringo",
+      "has_synced": false,
+      "path": "select/01_茎_-_日本語バージョン_Sheena_Ringo.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Kuki [茎]",
+      "artist": "Ringo Sheena",
+      "has_synced": false,
+      "path": "select/02_Kuki_[茎]_Ringo_Sheena.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "茎(STEM) ~大名遊ビ編~",
+      "artist": "Sheena Ringo",
+      "has_synced": true,
+      "path": "select/03_茎(STEM)_~大名遊ビ編~_Sheena_Ringo.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "茎",
+      "artist": "Sheena Ringo feat. 斎藤ネコ",
+      "has_synced": true,
+      "path": "select/04_茎_Sheena_Ringo_feat._斎藤ネコ.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "茎",
+      "artist": "椎名林檎",
+      "has_synced": true,
+      "path": "select/05_茎_椎名林檎.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "茎",
+      "artist": "Shiina Ringo",
+      "has_synced": false,
+      "path": "select/06_茎_Shiina_Ringo.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "茎 (STEM) 〜大名遊ビ編〜",
+      "artist": "Shiina Ringo",
+      "has_synced": false,
+      "path": "select/07_茎_(STEM)_〜大名遊ビ編〜_Shiina_Ringo.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "茎",
+      "artist": "椎名林檎×斎藤ネコ",
+      "has_synced": false,
+      "path": "select/08_茎_椎名林檎×斎藤ネコ.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "茎",
+      "artist": "Sheena Ringo",
+      "has_synced": false,
+      "path": "select/09_茎_Sheena_Ringo.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "茎",
+      "artist": "Sheena Ringo×Saito Neko",
+      "has_synced": true,
+      "path": "select/10_茎_Sheena_Ringo×Saito_Neko.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "茎(STEM) ~大名遊ビ編~",
+      "artist": "椎名林檎",
+      "has_synced": true,
+      "path": "select/11_茎(STEM)_~大名遊ビ編~_椎名林檎.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "茎",
+      "artist": "椎名林檎 x 斎藤ネコ",
+      "has_synced": false,
+      "path": "select/12_茎_椎名林檎_x_斎藤ネコ.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "茎(STEM) ~大名遊ビ編~",
+      "artist": "椎名林檎",
+      "has_synced": false,
+      "path": "select/13_茎(STEM)_~大名遊ビ編~_椎名林檎.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "茎(STEM) ～大名遊ビ編～",
+      "artist": "Sheena Ringo",
+      "has_synced": true,
+      "path": "select/14_茎(STEM)_~大名遊ビ編~_Sheena_Ringo.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "茎 (日本語バージョン)",
+      "artist": "椎名林檎",
+      "has_synced": true,
+      "path": "select/15_茎_(日本語バージョン)_椎名林檎.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "茎",
+      "artist": "Ringo Shiina",
+      "has_synced": false,
+      "path": "select/16_茎_Ringo_Shiina.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "茎 (STEM) ～大名遊ビ編～",
+      "artist": "椎名林檎",
+      "has_synced": true,
+      "path": "select/17_茎_(STEM)_~大名遊ビ編~_椎名林檎.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "茎",
+      "artist": "椎名林檎",
+      "has_synced": false,
+      "path": "select/18_茎_椎名林檎.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "茎",
+      "artist": "椎名林檎 x 斎藤ネコ",
+      "has_synced": false,
+      "path": "select/pl_01_茎_椎名林檎_x_斎藤ネコ.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "茎",
+      "artist": "椎名林檎 x 斎藤ネコ",
+      "has_synced": false,
+      "path": "select/pl_02_茎_椎名林檎_x_斎藤ネコ.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "茎(STEM)~大名遊ビ編~",
+      "artist": "椎名林檎 x 斎藤ネコ",
+      "has_synced": false,
+      "path": "select/pl_03_茎(STEM)~大名遊ビ編~_椎名林檎_x_斎藤ネコ.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "茎(STEM) ～大名遊ビ編～",
+      "artist": "椎名林檎 x 斎藤ネコ",
+      "has_synced": false,
+      "path": "select/pl_04_茎(STEM)_~大名遊ビ編~_椎名林檎_x_斎藤ネコ.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "茎",
+      "artist": "椎名林檎 x 斎藤ネコ",
+      "has_synced": false,
+      "path": "select/pl_05_茎_椎名林檎_x_斎藤ネコ.txt"
+    }
+  ]
+}
