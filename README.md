@@ -1,0 +1,37 @@
+# Sheena Ringo、Neko Saito – 茎
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:32.36] There's a door here, but it will not break
+[00:37.79] There's a stone there, but it won't remain
+[00:42.82] Up there a heaven now, but it will not wait
+[00:48.39] And the lies there, the scent of it, just too much
+[00:53.69] So should you sow it once and make it grow, the sweet clematis?
+[01:00.06] Let it flower and paint it all of the colors bold
+[01:05.43] Instantly things fall and fade
+[01:08.83] Return to silence
+[01:10.65] Why oh why, why does it all feel so sorrowful?
+[01:15.67] Dreams of what is real
+[01:26.67] 
+[01:42.35] There's breath here, but it will not break
+[01:47.79] There's a face there, but it won't remain
+[01:52.39] Up there a heaven now, but it knows no name
+[01:57.93] And the stain is the color of red through red
+[02:03.56] And thus, you cannot cry, confuse the lies, try to remember
+[02:10.21] When you rise, you take you steps with a strong desire
+[02:15.57] Time goes by a breath, it comes like something given
+[02:21.08] Why oh why, why have these nightmares not long expired?
+[02:26.31] The real is but a dream
+[02:37.81] 
+[03:11.27] From now on
+[03:12.40] Should it grow and open full, the sweet clematis?
+[03:18.06] Flower bold but there's no need for rejoicing more
+[03:23.15] Precious life, this life, just once, it comes just one time
+[03:28.76] Keep it close, keep it from ever just leaving you
+[03:33.97] Crying tears, confusing fears, they are no longer
+[03:39.57] When I stand, I know I'll never be down again
+[03:44.75] Nothing that I need now, once it comes just one time
+[03:50.57] Somehow, somehow, someone ah ih ah
+[03:55.68] Entry Number One
+```
